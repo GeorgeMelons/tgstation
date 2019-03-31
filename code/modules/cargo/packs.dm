@@ -1162,8 +1162,6 @@
 					/obj/item/reagent_containers/glass/bottle/cold,
 					/obj/item/reagent_containers/glass/bottle/random_virus,
 					/obj/item/reagent_containers/glass/bottle/random_virus,
-					/obj/item/reagent_containers/glass/bottle/fedora,
-					/obj/item/reagent_containers/glass/bottle/plaslung,
 					/obj/item/reagent_containers/glass/bottle/fake_gbs,
 					/obj/item/reagent_containers/glass/bottle/magnitis,
 					/obj/item/reagent_containers/glass/bottle/pierrot_throat,

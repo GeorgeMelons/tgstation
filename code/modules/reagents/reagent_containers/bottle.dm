@@ -241,16 +241,6 @@
 	desc = "A small bottle. Contains H0NI<42 virion culture in synthblood medium."
 	spawned_disease = /datum/disease/pierrot_throat
 
-/obj/item/reagent_containers/glass/bottle/fedora
-	name = "Increased Fedora culture bottle"
-	desc = "A small bottle. Contains 1NC31 virion culture in synthblood medium."
-	spawned_disease = /datum/disease/fedora
-
-/obj/item/reagent_containers/glass/bottle/plaslung
-	name = "Plasmamans Lung culture bottle"
-	desc = "Jesus Christ fucking wept."
-	spawned_disease = /datum/disease/plaslung
-
 /obj/item/reagent_containers/glass/bottle/cold
 	name = "Rhinovirus culture bottle"
 	desc = "A small bottle. Contains XY-rhinovirus culture in synthblood medium."

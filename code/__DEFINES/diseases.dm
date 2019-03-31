@@ -27,3 +27,15 @@
 #define DISEASE_SEVERITY_HARMFUL	"Harmful"   //Diseases that can do significant harm, or severe disruption (brainrot)
 #define DISEASE_SEVERITY_DANGEROUS 	"Dangerous" //Diseases that can kill or maim if left untreated (flesh eating, blindness)
 #define DISEASE_SEVERITY_BIOHAZARD	"BIOHAZARD" //Diseases that can quickly kill an unprepared victim (fungal tb, gbs)
+
+/*
+	These defines are used with the virus symptom tagged 'transcendence' in conjunction with mutations in stat.dm and genetics.dm.
+	Transcendence is an amplifier for genetic traits with some potent but mixed effects. In case of genetic malfunction, look there.
+*/
+#define HULKED 1
+#define XRAYED 2
+#define WARMED 4
+#define CAMOED 8
+#define ESPERED 16
+#define BLINDED 32
+#define MONKEYED 64
